@@ -1,0 +1,13 @@
+{
+    "DISABLED": "Les tickets sont désactivé !",
+    "PROBLEM": "Vous devez spécifier un problème !",
+    "DM": "j'ai bien crée ton ticket de support ici",
+    "REASON": "Raison du ticket : ",
+    "FIELD2": " | Support",
+    "DESC2": "Bonjour ", 
+    "DESC3": " ceci est une réponse automatique :\nS'il vous plait, veuillez nous communiquer de la manière la plus précise et complète possible votre plainte, problème ou question.",
+    "FIELD3": "\n\n**COMMENT FORMULER UN TICKET PRECIS ?**\n**●** indiquer le serveur concerné.\n**●** expliquer la nature du problème.\n**●** attacher un screen et/ou record si nécessaire.",
+    "FIELD4": "Merci de patienter le temps qu'un membre de l'équipe soit en mesure de vous aider.\n\nSi vous n'avez pas d'autres questions et/ou demandes, nous vous invitons a clôturer votre ticket en cours en cliquant sur la réaction 🔒.",
+    "TICKETOPEN": "Tu as déjà un ticket ouvert",
+    "ROLEDELETE": "Le rôle modérateur a été supprimé !"
+}

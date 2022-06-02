@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Toggle ticket on the server!",
+    "USAGE": "{{prefix}}ticket [on/off] (role)",
+    "EXAMPLES": "{{prefix}}ticket on @Members\n{{prefix}}ticket off",
+    "MISSING_STATUS": "Please specify a valid value between `on` and `off`",
+    "MISSING_ROLE": "Please specify a valid moderator role!",
+    "SUCCESS_ENABLED": "Ticket enabled! The **{{roleName}}** role a is now the moderator role for tickets!",
+    "ALREADY_DISABLED": "**The ticket is already disabled.**\n\n:arrow_right_hook: *Send `{{prefix}}setticket on `@YourModeratorRole` to enable it again!*",
+    "SUCCESS_DISABLED": "**Ticket disabled!**\n\n:arrow_right_hook: *Send `{{prefix}}configuration` to see the updated configuration!*"
+}

@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Ferme le serveur discord",
+    "USAGE": "{{prefix}}server [lock/unlock] (raison)",
+    "EXAMPLES": "{{prefix}}server lock (raison)\n{{prefix}}server unlock",
+    "MISSING_STATUS": "Veuillez enter une valeur entre `lock` ou `unlock`",
+    "MISSING_STATUS2": "Veuillez saisir une valeur entre `bots`, `users` et `all`",
+    "EMBED": "A qui voulez vous que le serveur soit fermé ?",
+    "EMBEDDESC": "Entrez une valeur entre `bots`, `users` et `all`.\nEntrez `cancel` pour annuler la commande.",
+    "REASON": "Quel raison voulez vous mettre ?",
+    "DESCREASON": "Entrez `cancel` pour annuler la commande.",
+    "ENABLED": "**Le serveur est maintenant fermé !**\n\n:arrow_right_hook: *Envoyez `{{prefix}}server unlock` pour réouvrir le serveur!*",
+    "DISABLED": "Le serveur est réouvert !",
+    "LOCK": "Le serveur est fermé ! \n**Raison:**\n"
+}

@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Envoie un embed customisé dans le salon actuel !",
+    "USAGE": "{{prefix}}embed [titre]",
+    "EXAMPLES": "{{prefix}}embed Hey",
+    "MISSING_TEXT": "Vous devez mettre un titre !",
+    "TOO_LONG": "Votre titre est trop long. Vous ne devez pas dépasser plus de 60 lettres !",
+    "EMBED1": "Quel description voulez-vous donner a votre embed ?",
+    "EMBED2": "Quel couleur voulez-vous donner a votre embed ?",
+    "DESC1": "Entrez `cancel` pour annuler la commande.",
+    "DESC2": "Entrez votre couleur en hexadecimal `#0000FF`.\nEntrez `cancel` pour annuler la commande."
+}

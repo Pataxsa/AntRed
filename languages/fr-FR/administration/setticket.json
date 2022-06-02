@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Basculer le ticket sur le serveur!",
+    "USAGE": "{{prefix}}ticket [on/off] (role)",
+    "EXAMPLES": "{{prefix}}ticket on @Members\n{{prefix}}ticket off",
+    "MISSING_STATUS": "Veuillez spécifier une valeur valide entre `on` et `off`",
+    "MISSING_ROLE": "Veuillez spécifier un role de modérateur valide!",
+    "SUCCESS_ENABLED": "Ticket activé! Le role **{{roleName}}** est désormais le role de modérateur pour les tickets!",
+    "ALREADY_DISABLED": "**Le ticket est déja désactiv�.**\n\n:arrow_right_hook: *Envoyez `{{prefix}}setticket on `@YourModeratorRole` pour le réactiver!*",
+    "SUCCESS_DISABLED": "**Ticket désactivé!**\n\n:arrow_right_hook: *Envoyez `{{prefix}}configuration` pour voir la configuration mise a jour!*"
+}

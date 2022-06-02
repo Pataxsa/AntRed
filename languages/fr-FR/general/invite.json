@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Montre les liens de Protector !",
+    "USAGE": "{{prefix}}invite (copy)",
+    "EXAMPLES": "{{prefix}}invite\n{{prefix}}invite copy",
+    "LINKS": "Liens Protector",
+    "TIP": "Envoyez `{{prefix}}invite copy` pour pouvoir copier le lien d'invitation !",
+    "ADD": "Inviter Protector",
+    "VOTE": "Voter pour Protector",
+    "SUPPORT": "Le Support"
+}

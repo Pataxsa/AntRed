@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "Envoie une réaction customisé sur le message mentionné !",
+    "USAGE": "{{prefix}}rolereact [messageid]",
+    "EXAMPLES": "{{prefix}}rolereact 833647311674146848",
+    "MISSING_TEXT": "Vous devez mettre un identifiant de message valide !",
+    "MISSING_STATUS": "Entrez une valeur entre `add` et `remove` !",
+    "EMBED1": "Quel rôle voulez-vous donner a votre réaction ?",
+    "EMBED2": "Quel emoji voulez-vous donner a votre réaction ?",
+    "EMBED3": "Quel est l'emoji que vous voulez supprimer ?",
+    "DESC1": "Entrez `cancel` pour annuler la commande.",
+    "DESC2": "Entrez `cancel` pour annuler la commande.",
+    "DESC3": "Entrez `cancel` pour annuler la commande.",
+    "CUSTOM_EMOJI": "Les emojis personnalisé ne sont pas acceptés !",
+    "NO_EMOJI": "Veuillez mettre un emoji valide !",
+    "NO_REACT": "Il n'y a aucune réaction de **Protector** sur ce message.",
+    "SUPERIOR": "Vous ne pouvez pas mettre un rôle supérieur (ou égal) au votre !",
+    "MESSAGENOTBOT": "Ce message n'a pas été envoyé par **Protector** !",
+    "NO_PERMS_ADD": "J'ai besoin des permissions suivantes pour vous donner le rôle **{{role}}**: `MANAGE_ROLES`",
+    "NO_PERMS_REMOVE": "J'ai besoin des permissions suivantes pour vous enlever le rôle **{{role}}**: `MANAGE_ROLES`",
+    "ROLE_SUPERIOR_ADD": "Le role **{{role}}** est plus haut que le mien donc je ne peut pas vous le donner !",
+    "ROLE_SUPERIOR_REMOVE": "Le role **{{role}}** est plus haut que le mien donc je ne peut pas vous l'enlever !"
+}

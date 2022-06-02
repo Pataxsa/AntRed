@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Basculez les messages d'adieu !",
+    "USAGE": "{{prefix}}goodbye",
+    "EXAMPLES": "{{prefix}}goodbye",
+    "DEFAULT_MESSAGE": "Au revoir {user} ! Nous sommes maintenant {membercount} sans vous... :'(",
+    "TEST_SUCCESS": "Test exécuté !",
+    "FORM_1": "**Sur quel canal les messages d'adieu seront-ils envoyés  ?**\n\n:arrow_right_hook: *Répondez en mentionnant un salon !*",
+    "FORM_2": "**Veuillez saisir votre message d'adieu souhaité.**\n**Si vous souhaitez:**\n*-* __Mention de l'utilisateur__: {user}\n*-* __Obtenir le nombre de membres__: {memberCount}\n*-* __Obtenir le nom du serveur__: {server}\n**Exemple d'utilisation:**\nAu revoir {user}, vous nous manquerez ! Nous sommes maintenant {membercount}.\n:fast_forward:\n Au revoir {{author}}, vous nous nous manquer! Nous sommes maintenant {{memberCount}}.",
+    "FORM_3": "**Voulez-vous aussi une bonne image d'adieu ?**\n\n:arrow_right_hook: *Répondez en envoyant `oui` ou `non` !*",
+    "FORM_SUCCESS": "**Très bien c'est fait !**\n\n:arrow_right_hook: *Répondez en envoyant `{{prefix}}goodbye test` pour voir votre message d'adieu !*",
+    "MAX_CHARACT": "Votre message ne doit pas dépasser les 1800 caractères !",
+    "DISABLED": "**Les messages d'adieu viennent d'être désactivés !**\n\n:arrow_right_hook: *Répondez en envoyant `{{prefix}}configuration` pour voir la mise à jour de la configuration du serveur !*",
+    "IMG_GOODBYE": "sur {{server}}",
+    "IMG_NB": "- {{memberCount}} membre(s)",
+    "MISSING_STATUS": "Vous devez sp�cifier une action entre edit et off",
+    "TITLE": "AU REVOIR",
+    "EMBED_TITLE": "Au revoir {{username}}."
+}

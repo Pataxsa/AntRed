@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Stoppe la musique",
+    "USAGE": "{{prefix}}stop",
+    "EXAMPLES": "{{prefix}}stop",
+    "VOTE_CONTENT": "Réagissez avec � pour arrêter la musique ! {{requiredCount}} votes supplémentaires sont nécessaires.",
+    "SUCCESS": "Musique stoppée !"
+}

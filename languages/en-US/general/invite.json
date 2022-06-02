@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Shows Protector links!",
+    "USAGE": "{{prefix}}invite (copy)",
+    "EXAMPLES": "{{prefix}}invite\n{{prefix}}invite copy",
+    "LINKS": "Protector links",
+    "TIP": "Send `{{prefix}}invite copy` to be able to copy the invite link!",
+    "ADD": "Invite Protector",
+    "VOTE": "Vote for Protector",
+    "SUPPORT": "Get Support"
+}

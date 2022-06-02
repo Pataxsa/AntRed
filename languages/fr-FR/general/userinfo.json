@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Affiche les informations utilisateur !",
+    "USAGE": "{{prefix}}userinfo (@user/userID)",
+    "EXAMPLES": "{{prefix}}userinfo\n{{prefix}}userinfo @0bL1V10N#2021\n{{prefix}}userinfo 422820341791064085",
+    "INVALID_USER": "Aucun utilisateur sur Discord n'a l'ID `{{search}}` !",
+    "NO_GAME": "Ne joue pas",
+    "NO_BADGES": "Aucun badges",
+    "NO_ROLE": "Aucun rôle",
+    "NO_EMOJI": "Aucun emoji",
+    "NO_NICKNAME": "Pas de surnom",
+    "MORE_ROLES": "et {{count}} autres rôles",
+    "MORE_EMOJIS": "et {{count}} autres emojis",
+    "BOT_STATS": "**{{votes}}** votes ([top.gg](https://top.gg))\n**{{servers}}** servers\n**{{shards}}** shards\nUsing **{{lib}}**"
+}

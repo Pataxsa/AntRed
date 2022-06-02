@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Show commands list or specific command help.",
+    "USAGE": "{{prefix}}help (command)",
+    "EXAMPLES": "{{prefix}}help\n{{prefix}}help ping",
+    "CUSTOM": "A custom command doesn't have help page.",
+    "NOT_FOUND": "`{{search}}` is not a valid command",
+    "FIELD_CATEGORY": "Category",
+    "FIELD_USAGE": "Usage",
+    "FIELD_DESCRIPTION": "Description",
+    "FIELD_ALIASES": "Alias",
+    "FIELD_EXAMPLES": "Examples",
+    "FIELD_PERMISSIONS": "Permissions",
+    "NO_ALIAS": "No alias",
+    "CMD_TITLE": "{{cmd}}",
+    "NODESC": "No description",
+    "INFO": ":information_source: To get help on a specific command type `{{prefix}}help <command>` !",
+    "BASEINFO": "The prefix is displayed in front of all commands, but in case you forgot it, the prefix is **{{prefix}}**.\nFor more information about a command, run `{{prefix}}help <command>`.\nTo see all the commands, run `{{prefix}}help all`.\nIf you need help using Protector, have questions, or there is a problem, join our support server!\n\nClick a button to display a list of all the commands in that category. This is what each emoji represents:\n\n:information_source: | Bot Info\n <:Configuration:824683989113634847> | Configuration commands\n <:Development:824683989683142748> | Development commands\n <:General:824690303570804756> | General commands\n <:Moderation:824683989997584388> | Moderation commands\n <:Music:827228726449930240> | Music commands\n <:Owner:824699930874347582> | Owner's commands\n <:Custom:824713375094800424> | Custom commands\n\nYou can exit the menu by clicking on :x:.",
+    "CUSTOM_COMMANDS": "Custom commands",
+    "TITLE": "{{name}} | Protect your server easly !",
+    "NO_REQUIRED_PERMISSION": "No specific permission is required to execute this command."
+}

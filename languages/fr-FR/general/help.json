@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Afficher la liste des commandes ou l'aide de commandes spécifiques.",
+    "USAGE": "{{prefix}}help (commande)",
+    "EXAMPLES": "{{prefix}}help\n{{prefix}}help ping",
+    "CUSTOM": "Une commande personnalisée n'a pas de page d'aide.",
+    "NOT_FOUND": "`{{search}}` n'est pas une commande valide",
+    "FIELD_USAGE": "Usage",
+    "FIELD_CATEGORY": "Catégorie",
+    "FIELD_DESCRIPTION": "Description",
+    "FIELD_ALIASES": "Alias",
+    "FIELD_EXAMPLES": "Exemples",
+    "FIELD_PERMISSIONS": "Permissions",
+    "NO_ALIAS": "No alias",
+    "CMD_TITLE": "{{cmd}}",
+    "NODESC": "Aucune description",
+    "INFO": ":information_source: Pour obtenir de l'aide sur une commande spécifique tapez `{{prefix}}help <commande>` !",
+    "BASEINFO": "Le préfixe est affiché devant toutes les commandes, mais au cas où vous l'auriez oublié, le prefix est **{{prefix}}**.\nPour plus d'informations sur une commande, exécutez `{{prefix}}help <commande>`.\nPour voir toutes les commandes, exécutez `{{prefix}}help all`.\nSi vous avez besoin d'aide pour utiliser Protector, si vous avez des questions ou si il y a un problème, rejoignez notre serveur de support !\n\nCliquez sur un bouton pour afficher une liste de toutes les commandes de cette catégorie. Voici ce que représente chaque emoji:\n\n:information_source: | Informations du bot\n<:Configuration:824683989113634847> | Commandes de configuration\n<:Development:824683989683142748> | Commandes en développement\n<:General:824690303570804756> | Commandes générales\n<:Moderation:824683989997584388> | Commandes de modération\n<:Music:827228726449930240> | Commandes de musique\n<:Owner:824699930874347582> | Commandes du propriétaire\n<:Custom:824713375094800424> | Commandes personnalisées\n\nVous pouvez quitter le menu en cliquant sur :x:.",
+    "CUSTOM_COMMANDS": "Commandes personnalisées",
+    "TITLE": "{{name}} | Protégez votre serveur facilement !",
+    "NO_REQUIRED_PERMISSION": "Aucune permissions n'est requise pour éxécuter cette commande."
+}

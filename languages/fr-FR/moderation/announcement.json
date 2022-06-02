@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Envoie une annonce dans le salon actuel !",
+    "USAGE": "{{prefix}}announcement [texte]",
+    "EXAMPLES": "{{prefix}}announcement New staff member !",
+    "MISSING_TEXT": "Vous devez entrer du texte !",
+    "TOO_LONG": "Votre texte est trop long. Vous ne devez pas dépasser plus de 1030 lettres !",
+    "MENTION_PROMPT": "Quel mention voulez-vous envoyer lors de l'annonce ?",
+    "EMBED": "Voulez vous avoir une mention lors du message ?",
+    "DESC": "Entrez `cancel` pour annuler la commande.",
+    "TITLE": "📢 Annonce:"
+}

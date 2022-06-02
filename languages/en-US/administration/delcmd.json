@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Toggle commands auto deletion!",
+    "USAGE": "{{prefix}}delcmd [on/off]",
+    "EXAMPLES": "{{prefix}}delcmd on",
+    "MISSING_STATUS": "You must specify `on` or `off`",
+    "ENABLED": "Automatic commands deletion enabled!",
+    "DISABLED": "Automatic commands deletion disabled!"
+}

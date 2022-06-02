@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "Shows the bot stats !",
+    "USAGE": "{{prefix}}stats",
+    "EXAMPLES": "{{prefix}}stats",
+    "COUNTS_TITLE": "__Statistics__",
+    "COUNTS_CONTENT": "`Servers: {{servers}}`\n`Users: {{users}}`",
+    "VERSIONS_TITLE": "__Using__",
+    "RAM_TITLE": "__RAM__",
+    "CPU_TITLE": "__CPU__",
+    "CPUMODEL_TITLE": "__CPU Model__",
+    "CPUSPEED_TITLE": "__CPU Speed__",
+    "SYSTEM_TITLE": "__System__",
+    "ARCH_TITLE": "__Arch__",
+    "ONLINE_TITLE": "__Online__",
+    "ONLINE_CONTENT": "Online for {{time}}",
+    "MUSIC_TITLE": "__Music__",
+    "MUSIC_CONTENT": "Playing music on `{{count}}` servers",
+    "CREATOR_TITLE": ":crown: __Creator__",
+    "CREATOR_CONTENT": "{{creator}}",
+    "LINKS_TITLE": "• __Links__",
+    "MADE": ""
+}

@@ -1,0 +1,13 @@
+{
+    "DISABLED": "Tickets are disabled !",
+    "PROBLEM": "You must specify a problem !",
+    "DM": "I created your support ticket here",
+    "REASON": "Reason for ticket : ",
+    "FIELD2": " | Support",
+    "DESC2": "Hello ", 
+    "DESC3": " this is an automatic response:\nPlease kindly communicate your complaint, problem or question to us as accurately and completely as possible.",
+    "FIELD3": "\n\n**HOW TO FORMULATE A PRECISE TICKET ?**\n**●** indicate the affected server.\n**●** explain the nature of the problem.\n**●** attach a screen and/or record if necessary.",
+    "FIELD4": "Please wait while a member of the Team is able to help you.\n\nIf you have no other questions and / or requests, we invite you to close your current ticket by clicking on the reaction 🔒.",
+    "TICKETOPEN": "You already have an open ticket",
+    "ROLEDELETE": "The moderator role has been removed !"
+}

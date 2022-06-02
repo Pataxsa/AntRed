@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "Send a customized reaction to the mentioned message !",
+    "USAGE": "{{prefix}}rolereact [messageid]",
+    "EXAMPLES": "{{prefix}}rolereact 833647311674146848",
+    "MISSING_TEXT": "You must put a valid message id !",
+    "MISSING_STATUS": "Enter a value between `add` and` remove` !",
+    "EMBED1": "What role do you want to give to your reaction ?",
+    "EMBED2": "What emoji do you want your reaction to be ?",
+    "EMBED3": "Which emoji do you want to remove ?",
+    "DESC1": "Enter `cancel` to cancel the command.",
+    "DESC2": "Enter `cancel` to cancel the command.",
+    "DESC3": "Enter `cancel` to cancel the command.",
+    "CUSTOM_EMOJI": "Custom emojis are not accepted !",
+    "NO_EMOJI": "Please put a valid emoji !",
+    "NO_REACT": "There is no reaction from **Protector** to this message.",
+    "SUPERIOR": "You cannot put a role higher (or equal) to yours !",
+    "MESSAGENOTBOT": "This message was not sent by **Protector** !",
+    "NO_PERMS_ADD": "I need the following permissions to give you the role **{{role}}**: `MANAGE_ROLES`",
+    "NO_PERMS_REMOVE": "I need the following permissions to remove the role from you **{{role}}**: `MANAGE_ROLES`",
+    "ROLE_SUPERIOR_ADD": "The role **{{role}}** is higher than mine so I can't give it !",
+    "ROLE_SUPERIOR_REMOVE": "The role **{{role}}** is higher than mine so I can't take it away from you !"
+}

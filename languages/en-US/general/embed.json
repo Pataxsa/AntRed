@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Send a custom embed to the current channel !",
+    "USAGE": "{{prefix}}embed [title]",
+    "EXAMPLES": "{{prefix}}embed Hey",
+    "MISSING_TEXT": "You must put a title !",
+    "TOO_LONG": "Your title is too long. You must not pass more than 60 letters !",
+    "EMBED1": "What description do you want to give to your embed ?",
+    "EMBED2": "What color do you want to give to your embed ?",
+    "DESC1": "Enter `cancel` to cancel the command.",
+    "DESC2": "Enter your color in hexadecimal`#0000FF`.\nEnter `cancel` to cancel the command."
+}
