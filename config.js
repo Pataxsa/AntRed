@@ -1,21 +1,21 @@
 module.exports = {
-	token: "OTY1NTQzMTg2NTkwMjI4NDkw.Yl0uKg.AkyLU-L7LJHgjfy9xBMG3aAxq6s",
+	token: "BOTTOKEN",
 	id: "965543186590228490",
 	support: {
-		link: "https://discord.gg/rA5xdqpRbr",
+		link: "DISCORDLINK",
 		id: "820038745247580181",
 		logs: "859008754532089876", 
 	},
 	dashboard: {
 		enabled: false,
-		secret: "SBhZKiEZOhX2xqL9idD2eEfPW8EE7QrP",
-		baseURL: "http://game21-dc02.ouiheberg.com:25629",
+		secret: "SECRETKEY",
+		baseURL: "BASEURL",
 		logs: "829703520407912468",
 		port: 25629,
 		expressSessionPassword: "1234",
 		failureURL: "error"
 	},
-	mongoDB: "mongodb+srv://axel:Axel0607@cluster0.z943d.mongodb.net/AntRed",
+	mongoDB: "MONGODBDATABASEURL",
 	embed: {
 		color: "#1a507e",
 		footer: "AntRed | v1.0.0"
